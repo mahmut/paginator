@@ -1,0 +1,19 @@
+{
+    "name": "mahmut/paginator",
+    "description": "PHP Paginator",
+    "type": "library",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Mahmut ÖZDEMİR",
+            "email": "bilgi@mahmutozdemir.com.tr"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Mahmut\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
