@@ -1,9 +1,9 @@
 <?php
 /**
  * ----------------------------------------
- * author : [not]
- * web    : [not]
- * email  : [not]
+ * author : Mahmut ÖZDEMİR
+ * web    : www.mahmutozdemir.com.tr
+ * email  : bilgi@mahmutozdemir.com.tr
  * ----------------------------------------
  * Date   : 2021-10-15 14:55
  * File   : Paginator.php
